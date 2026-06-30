@@ -31,7 +31,6 @@ This project was completed as part of my Integrated M.Sc. Physics programme.
 
 ```
 src/        → Python source code
-data/       → Input datasets
 figures/    → Generated plots
 docs/       → Project report
 ```
