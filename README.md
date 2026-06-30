@@ -4,7 +4,6 @@
 
 This project demonstrates the detection and characterization of an exoplanet using the Radial Velocity (RV) method. The analysis is implemented in Python and includes Keplerian orbital modelling, numerical parameter estimation, and visualization of radial velocity curves.
 
-This project was completed as part of my Integrated M.Sc. Physics programme.
 
 ---
 
